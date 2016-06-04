@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: git-search
+Version: 1.1.7
+Summary: Search text in commits
+Home-page: https://github.com/sidj242/git-search/
+Author: Siddharh Jain
+Author-email: sidj242@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: git search,commit search
+Platform: UNKNOWN

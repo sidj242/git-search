@@ -1,0 +1,9 @@
+setup.py
+bin/git-search
+git-search/__init__.py
+git-search/git_commit_search
+git-search/git_commit_search.py
+git_search.egg-info/PKG-INFO
+git_search.egg-info/SOURCES.txt
+git_search.egg-info/dependency_links.txt
+git_search.egg-info/top_level.txt
