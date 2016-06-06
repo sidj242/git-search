@@ -3,7 +3,7 @@ from setuptools import setup,find_packages
 setup(
   name = 'git-search',
   packages = find_packages(),
-  version = '1.1.7',
+  version = '1.1.8',
   description = 'Search text in commits',
   author = 'Siddharh Jain,Arun Kumar',
   author_email = 'sidj242@gmail.com,arun6582@gmail.com',
