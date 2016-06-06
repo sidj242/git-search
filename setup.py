@@ -6,7 +6,7 @@ setup(
   version = '1.1.7',
   description = 'Search text in commits',
   author = 'Siddharh Jain,Arun Kumar',
-  author_email = 'sidj242@gmail.com',
+  author_email = 'sidj242@gmail.com,arun6582@gmail.com',
   url = 'https://github.com/sidj242/git-search/', # use the URL to the github repo
   keywords = ['git search','commit search'], # arbitrary keywords
   classifiers = [],
